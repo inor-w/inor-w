@@ -13,7 +13,7 @@
 
 ## Recent Projects
 - Digital Forensics & Incident Response (DFIR) Cases: <https://github.com/inor-w/dfir-case-studies>
-- Personal Full-stack Portfolio Website: TBD
+- Personal Full-stack Portfolio Website: <https://github.com/inor-w/Personal-Portfolio-PHP-Website>
 - Financial Assistant Dashboard: <https://github.com/inor-w/Financial-Assistant-Dasboard>
 - Private Donor & Grant Analytics (Intern Project): TBD
 - Password Salting & Hashing: <https://github.com/inor-w/Password-Hashing>
