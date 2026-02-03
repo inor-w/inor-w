@@ -39,6 +39,8 @@
 
 <br>
 
-##Resume
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](assets/InorWang_Resume.pdf)
+<a href="assets/Inor_Wang_Resume.pdf" download>
+  <img src="https://img.shields.io/badge/Download-Resume-blue" alt="Download Resume">
+</a>
+
 
