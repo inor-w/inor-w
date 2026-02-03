@@ -7,7 +7,7 @@
 
 - 🌎 I’m based in San Antonio, Texas
 - 📫 You can contact me at inorwang@gmail.com
-- 🧠 I’m currently learning more about Digital Forensics & Incident Response (DFIR) and full stack web development
+- 🧠 I’m currently learning more about Cybersecurity Operations Analyst duties, Digital Forensics & Incident Response (DFIR), and full stack web development
 
 ---
 
