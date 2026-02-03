@@ -32,7 +32,7 @@
 <br>
     
 ## Tech I use
--**Languages/Scripting:** Python, Powershell, Bash, SQL, Java, C
--**Platforms:** Windows, Linux, Git, AWS
--**Security Operations Analyst Tools:** Splunk, Microsoft Defender for Endpoint, ExtraHop, Infloblox, Duo Admin, ServiceNow, Abnormal AI
--**DFIR Tools:** Volatility 3, Autopsy, KAPE, FTK Imager, Abnormal AI, Windows Event Log Analysis (EVTX), Velociraptor, Wireshark, Registry Explorer, FLOSS, capa, Hashcat
+- **Languages/Scripting:** Python, Powershell, Bash, SQL, Java, C
+- **Platforms:** Windows, Linux, Git, AWS
+- **Security Operations Analyst Tools:** Splunk, Microsoft Defender for Endpoint, ExtraHop, Infloblox, Duo Admin, ServiceNow, Abnormal AI
+- **DFIR Tools:** Volatility 3, Autopsy, KAPE, FTK Imager, Abnormal AI, Windows Event Log Analysis (EVTX), Velociraptor, Wireshark, Registry Explorer, FLOSS, capa, Hashcat
