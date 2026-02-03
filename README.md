@@ -11,7 +11,7 @@
 - 💼 linkedin.com/in/inorwang
 - 🧠 I’m currently learning more about Cybersecurity Operations Analyst duties, Digital Forensics & Incident Response (DFIR), and full stack web development
 
-  
+<br>
 
 ## Recent Projects
 - Digital Forensics & Incident Response (DFIR) Cases: <https://github.com/inor-w/dfir-case-studies>
@@ -20,7 +20,7 @@
 - Private Donor & Grant Analytics (Intern Project): TBD
 - Password Salting & Hashing: <https://github.com/inor-w/Password-Hashing>
 
-   
+<br>
 
 ## Experiences
 - **Cybersecurity Operations Analyst Intern**
@@ -29,7 +29,7 @@
 - **Perishables Representative**
 - **Social Media Lead**
 
-
+<br>
     
 ## Tech I use
 -**Languages/Scripting:** Python, Powershell, Bash, SQL, Java, C
