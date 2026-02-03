@@ -39,6 +39,6 @@
 
 <br><br><br>
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume-0A66C2?style=for-the-badge&logo=download&logoColor=white)](https://github.com/inor-w/inor-w/raw/main/assets/Inor_Wang_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=download&logoColor=white)](https://github.com/inor-w/inor-w/raw/main/assets/Inor_Wang_Resume.pdf)
 
 
