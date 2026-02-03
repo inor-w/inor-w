@@ -2,8 +2,7 @@
 
 # Hi 👋 My name is Inor Wang
 
-## B.B.A. Cybersecurity (Minor: Computer Science)
-## The University of Texas at San Antonio | GPA: 3.95
+## B.B.A. Cybersecurity (Minor: Computer Science) | The University of Texas at San Antonio | GPA: 3.95
 **Graduation Date:** May 2026
 
 - 🌎 I’m based in San Antonio, Texas
