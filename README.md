@@ -39,8 +39,6 @@
 
 <br>
 
-<a href="assets/Inor_Wang_Resume.pdf" download>
-  <img src="https://img.shields.io/badge/Download-Resume-blue" alt="Download Resume">
-</a>
+[![Resume](https://img.shields.io/badge/Resume-PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/<USER>/<REPO>/raw/main/assets/Inor_Wang_Resume.pdf)
 
 
