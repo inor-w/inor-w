@@ -36,3 +36,9 @@
 - **Platforms:** Windows, Linux, Git, AWS
 - **Security Operations Analyst Tools:** Splunk, Microsoft Defender for Endpoint, ExtraHop, Infloblox, Duo Admin, ServiceNow, Abnormal AI
 - **DFIR Tools:** Volatility 3, Autopsy, KAPE, FTK Imager, Abnormal AI, Windows Event Log Analysis (EVTX), Velociraptor, Wireshark, Registry Explorer, FLOSS, capa, Hashcat
+
+<br>
+
+##Resume
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](assets/InorWang_Resume.pdf)
+
