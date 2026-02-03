@@ -9,7 +9,7 @@
 - 📫 You can contact me at inorwang@gmail.com
 - 🌐 Check out my website: inorw.com
 - 💼 linkedin.com/in/inorwang
-- 🧠 I’m currently learning more about Cybersecurity Operations Analyst duties, Digital Forensics & Incident Response (DFIR), and full stack web development
+- 🧠 I’m currently learning more about Cybersecurity Operations Analyst duties, Digital Forensics & Incident Response (DFIR) analysis, and full stack web development
 
 <br>
 
