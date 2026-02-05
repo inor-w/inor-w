@@ -19,6 +19,7 @@
 - Financial Assistant Dashboard: <https://github.com/inor-w/Financial-Assistant-Dasboard>
 - Private Donor & Grant Analytics (Intern Project): TBD
 - Password Salting & Hashing: <https://github.com/inor-w/Password-Hashing>
+- Secure Password Generator Extension (Publically Published): <https://github.com/inor-w/Password-Gen>
 
 <br>
 
